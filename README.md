@@ -8,10 +8,12 @@ Furthermore, it contains some useful hardhat tasks for performing operations on 
 
 ### Token addresses
 
-##### Ropsten
+#### Ropsten
 
 PerfectCoin: 0xbB34a7E2A070eC193cDdA2df52c2a912f54Ee087
+
 WorthlessCoin: 0x5782033F831C661D49cc288e9DFFf02452c93c6F
+
 DummyCoin: 0x281b1FE6C3f29c729bA7D7a6fcee7a9A043Fe118
 
 ##### obvisously this is not something meant for production
